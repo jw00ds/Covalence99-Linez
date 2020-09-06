@@ -1,11 +1,17 @@
 html * {
   background-color: black;
+  color: white;
 }
+
 h1 {
   color: orangered;
 }
+
 .friend {
   background-color: aquamarine;
-  /* h3. 
-  text-transform: uppercase;*/
+  color: navy;
+}
+
+.friend h3 {
+    text-transform: uppercase;
 }
