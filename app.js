@@ -1,6 +1,6 @@
 var friends = ["Menza", "Thomas", "Jordan", "Cam", "Dave"];
 
-console.log(
+// console.log(
     // touppercase()
     // 99x
     // if num > 1, lines
